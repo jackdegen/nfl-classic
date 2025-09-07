@@ -1,2 +1,2 @@
-# nfl
-Final version of NFL DFS repository
+# nfl-classic
+Final version of NFL DFS for Classic contests
